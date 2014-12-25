@@ -13,7 +13,7 @@ layout: default
       {% if post.thumbnail %}
 	<div class="small-4 large-3 column center-text left">
 	    <figure>
-	      <a href="{{ BASE_PATH }}{{ post.url }}"><img src="{{ post.thumbnail }}" align="center" /><figcaption>{{ post.title }}</figcaption></a>
+	      <a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ site.baseurl }}{{ post.thumbnail }}" align="center" /><figcaption>{{ post.title }}</figcaption></a>
 	    </figure>
 	</div>
       {% endif %}

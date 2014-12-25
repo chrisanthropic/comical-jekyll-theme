@@ -5,7 +5,7 @@ layout: default
 <article class="row">
    {% for about in site.data.about %}
     <div class="small-12 blocky">
-      <img src="{{ about.pic }}" alt="{{ about.title }} image" class="left">
+      <img src="{{ site.baseurl }}{{ about.pic }}" alt="{{ about.title }} image" class="left">
       <h2>About the {{ about.title }}</h2>
 
       {% if about.web %}

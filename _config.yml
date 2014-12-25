@@ -5,7 +5,9 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   A webcomic theme for jekyll.
 
-url: //chrisanthropic.github.io/comical-jekyll-theme
+
+baseurl: https://chrisanthropic.github.io/comical-jekyll-theme/ #remove this and use url instead once you've installed the theme.
+url: /
 
 # Exclude our ruby stuff
 exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
