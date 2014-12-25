@@ -4,6 +4,7 @@
 
 .comic-page {
   border: solid $comic-border-color $comic-border-width;
+  margin-bottom: 25px;
 }
 
 .comic-nav {
@@ -59,6 +60,35 @@
   width: 47%;
   display: inline-block;
   text-align: right; 
+}
+
+// Styling for mobile devices
+@media screen and (max-width: 768px) {
+  .previous-comic {
+    width: 10%;
+    margin-left: 5px;
+    font-size: 2em;
+  }
+  
+  .first-comic {
+    width: 70%;
+    font-size: 2em; 
+  }
+  
+  .comic-next { 
+    width: 10%;
+    font-size: 2em;
+  }
+  
+  .first-archive {
+    width: 70%;
+    font-size: 2em; 
+  }
+  
+  .first-next {
+    width: 10%;
+    font-size: 2em;
+  }
 }
 
 // Comic Archive Page

@@ -14,7 +14,8 @@ sidebar: true
       <nav class="comic-nav">
 	<nav class="previous-comic">
 	  {% for post in site.posts limit:1 offset:1 %}
-	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left">Previous</a>
+	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left hide-for-small">Previous</a>
+	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left hide-for-large"></a>
 	  {% endfor %}
 	</nav>
 	<nav class="first-comic">
@@ -22,7 +23,8 @@ sidebar: true
 	</nav>    
 	<nav class="comic-next">
 	{% for post in site.posts limit:1 offset:1 %}
-	  <a href="{{ site.baseurl }}{{ post.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	{% endfor %}
 	</nav>
       </nav>
@@ -34,14 +36,16 @@ sidebar: true
       <nav class="comic-nav">
 	<nav class="previous-comic">
 	  {% for post in site.posts limit:1 offset:1 %}
-	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left">Previous</a>
+	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left hide-for-small">Previous</a>
+	    <a href="{{ site.baseurl }}{{ post.url }}" class="icon-arrow-left hide-for-large"></a>
 	  {% endfor %}
 	</nav>
 	<nav class="first-comic">
 	  <a href="{{ site.baseurl }}{{ site.posts.last.url }}">First</a>
 	</nav>    
 	<nav class="comic-next">
-	  <a href="{{ site.baseurl }}{{ page.comic }}/">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	</nav>
       </nav>
   </article>
