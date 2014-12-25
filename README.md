@@ -4,6 +4,8 @@ Live Demo [HERE](http://chrisanthropic.github.io/comical-jekyll-theme/)
 
 A webcomic theme for Jekyll based on my [Slim-Pickins](https://github.com/chrisanthropic/slim-pickins-jekyll-theme) Jekyll theming framework.
 
+*All content included for the demo page is duplicated from my wife's [webcomic site](http://www.shamseecomic.com) and is availabe via Creative Commons.*
+
 ## Basic features include:
 
 * SASS
