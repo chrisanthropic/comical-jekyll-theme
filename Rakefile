@@ -23,7 +23,7 @@ end
 
 desc "Watch the site and regenerate when it changes"
 task :watch do
-  system "bundle exec jekyll serve --watch"
+  system "bundle exec jekyll serve --baseurl '' --watch"
 end
 
 ##############
