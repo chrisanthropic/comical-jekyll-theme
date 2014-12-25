@@ -464,11 +464,18 @@ a {
 .center-text {
   text-align: center; }
 
+@media screen and (min-width: 481px) {
+  .hide-for-large {
+    display: none; } }
+@media screen and (max-width: 768px) {
+  .hide-for-small {
+    display: none; } }
 .columns.comic-page {
   padding: 0px; }
 
 .comic-page {
-  border: solid #272727 3px; }
+  border: solid #272727 3px;
+  margin-bottom: 25px; }
 
 .comic-nav {
   background-color: #272727;
@@ -510,6 +517,27 @@ a {
   display: inline-block;
   text-align: right; }
 
+@media screen and (max-width: 768px) {
+  .previous-comic {
+    width: 10%;
+    margin-left: 5px;
+    font-size: 2em; }
+
+  .first-comic {
+    width: 70%;
+    font-size: 2em; }
+
+  .comic-next {
+    width: 10%;
+    font-size: 2em; }
+
+  .first-archive {
+    width: 70%;
+    font-size: 2em; }
+
+  .first-next {
+    width: 10%;
+    font-size: 2em; } }
 .blog-archives figure {
   border: solid;
   border-color: #aaaaaa;
