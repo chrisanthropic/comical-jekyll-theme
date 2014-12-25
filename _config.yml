@@ -1,0 +1,67 @@
+# Site settings
+title: Comical Jekyll Theme
+email: 
+
+description: > # this means to ignore newlines until "baseurl:"
+  A webcomic theme for jekyll.
+
+url: ""
+
+# Exclude our ruby stuff
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+
+destination: _site
+
+# Compress our Css
+#sass:
+#    style: :compressed
+
+permalink: /:categories/:title/
+
+#################################################
+####CUSTOM
+
+# Set default header image
+header: yes
+header_sm: /images/banner-small.jpg
+header_med: /images/banner-med.jpg
+header_large: /images/banner-large.jpg
+header_xl: /images/banner-xl.jpg
+
+## Thumbnailer taken from https://github.com/chrisanthropic/jekyll-minimagick
+
+# Autogenerate thumbs for comics
+mini_magick:
+
+#Create Thumbs for the Archive Page
+    thumbnail:
+      source: images/comics/
+      destination: /images/comics/thumbs
+      resize: "182x280"
+
+#Autogenerate smaller size for small screens       
+    small:
+      source: images/comics/
+      destination: /images/comics/small
+      resize: "350x535"
+
+#### SEO Stuff
+# Google Analytics
+google_universal_analytics: 
+google_universal_analytics_cookiedomain: auto
+
+# Facebook Opengraph
+facebook_app_id:                      #enter your App ID
+facebook_locale: en_US
+facebook_page:                        #the URL of your Facebook Page
+facebook_image: /images/SHAM-logo.jpg #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
+
+# Twitter Cards
+twitter_user: 
+twitter_card: true
+twitter_image: /images/SHAM-logo.jpg  #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.

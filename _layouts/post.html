@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<div class="row">
+  <div>
+    <article class="columns small-12 large-9 comic-page">
+      <nav class="comic-nav">
+	{% if site.posts.last.url == page.url %}
+	  <nav class="first-archive">
+	    <a href="/{{ page.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	  </nav>
+	  <nav class="first-next">
+	    <a href="{{page.next.url}}">Next<span class="icon-arrow-right"></span></a>
+	  </nav>
+	{% elsif site.posts.last.url != page.url %}
+	  {% if page.previous.url %}      
+	    <nav class="previous-comic">
+	      <a href="{{ page.previous.url }}" class="icon-arrow-left">Previous</a>
+	    </nav>
+	  {% endif %}	
+	  <nav class="first-comic">
+	    <a href="{{ site.posts.last.url }}">First</a>
+	  </nav>   
+	  {% if page.next.url %}
+	    <nav class="comic-next">
+	      <a href="{{page.next.url}}">Next<span class="icon-arrow-right"></span></a>
+	    </nav>
+	    {% else %}
+	    <nav class="comic-next">
+	      <a href="/{{ page.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	    </nav>
+	  {% endif %}	
+	{% endif %}	
+      </nav>
+      
+	  {{ content }}
+
+      <nav class="comic-nav">
+	{% if site.posts.last.url == page.url %}
+	  <nav class="first-archive">
+	    <a href="/{{ page.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	  </nav>
+	  <nav class="first-next">
+	    <a href="{{page.next.url}}">Next<span class="icon-arrow-right"></span></a>
+	  </nav>
+	{% elsif site.posts.last.url != page.url %}
+	  {% if page.previous.url %}      
+	    <nav class="previous-comic">
+	      <a href="{{ page.previous.url }}" class="icon-arrow-left">Previous</a>
+	    </nav>
+	  {% endif %}	
+	  <nav class="first-comic">
+	    <a href="{{ site.posts.last.url }}">First</a>
+	  </nav>   
+	  {% if page.next.url %}
+	    <nav class="comic-next">
+	      <a href="{{page.next.url}}">Next<span class="icon-arrow-right"></span></a>
+	    </nav>
+	    {% else %}
+	    <nav class="comic-next">
+	      <a href="/{{ page.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	    </nav>
+	  {% endif %}	
+	{% endif %}	
+      </nav>
+    </article>
+  </div>
+  {% include asides/recent_posts.html %}
+</div>

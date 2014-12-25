@@ -1,0 +1,52 @@
+---
+layout: default
+title: home
+sidebar: true
+--- 
+
+<div class="row">
+  <div>
+  {% if page.sidebar != false %}
+    <article class="columns small-12 large-9 comic-page">
+  {% else %}
+    <article class="columns small-12 comic-page">
+  {% endif %}
+      <nav class="comic-nav">
+	<nav class="previous-comic">
+	  {% for post in site.posts limit:1 offset:1 %}
+	    <a href="{{ post.url }}" class="icon-arrow-left">Previous</a>
+	  {% endfor %}
+	</nav>
+	<nav class="first-comic">
+	  <a href="{{ site.posts.last.url }}">First</a>
+	</nav>    
+	<nav class="comic-next">
+	{% for post in site.posts limit:1 offset:1 %}
+	  <a href="/{{ post.categories }}/">Archive<span class="icon-arrow-down"></span></a>
+	{% endfor %}
+	</nav>
+      </nav>
+	{% for post in site.posts limit:1 %}
+	
+	  {{ post.content }}
+	  
+	{% endfor %}
+      <nav class="comic-nav">
+	<nav class="previous-comic">
+	  {% for post in site.posts limit:1 offset:1 %}
+	    <a href="{{ post.url }}" class="icon-arrow-left">Previous</a>
+	  {% endfor %}
+	</nav>
+	<nav class="first-comic">
+	  <a href="{{ site.posts.last.url }}">First</a>
+	</nav>    
+	<nav class="comic-next">
+	  <a href="/{{ page.comic }}/">Archive<span class="icon-arrow-down"></span></a>
+	</nav>
+      </nav>
+  </article>
+  </div>
+  {% if page.sidebar != false %}
+    {% include asides/recent_posts.html %}
+  {% endif %}
+</div>

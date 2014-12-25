@@ -1,0 +1,80 @@
+.columns.comic-page {
+  padding: 0px;
+}
+
+.comic-page {
+  border: solid $comic-border-color $comic-border-width;
+  margin: 25px 0;
+}
+
+.comic-nav {
+  background-color: $comic-nav-background;
+  line-height: $comic-nav-height;
+  
+    a {
+      color: $comic-nav-color;
+      font-size: 1em;
+      line-height: 30px;
+      text-transform: uppercase;
+    }
+    
+    a:hover {
+      color: $comic-nav-hover;
+      text-decoration: none;
+    }
+
+    nav>a>span[class^="icon-"], div[span*=" icon-"] {
+      line-height: 30px;
+      font-size: 1em;
+    }
+   
+}
+
+.previous-comic {
+  width: 30%;
+  display: inline-block;
+  margin-left: 25px;
+}
+
+.first-comic {
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+}
+
+.comic-next {
+  width: 33%;
+  display: inline-block;
+  text-align: right;
+}
+
+// Archive link when on first page of comic
+.first-archive {
+  width: 48%;
+  display: inline-block;
+  margin-left: 25px;
+}
+
+// Next page link when on first page of comic
+.first-next {
+  width: 47%;
+  display: inline-block;
+  text-align: right; 
+}
+
+// Comic Archive Page
+.blog-archives figure {
+  border: solid;
+  border-color: $archive-border-color;
+  border-width: $archive-border-width;
+
+    &:hover {
+      border-color: $archive-hover-color; 
+    }
+  
+    & figcaption {
+      background-color: $figcaption-background-color;
+      color: $figcaption-text-color;
+      text-transform: uppercase;
+    }
+}

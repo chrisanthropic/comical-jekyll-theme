@@ -1,0 +1,13 @@
+{% if page.header%}
+  <header role="banner">
+      <a href="{{ root_url }}/"><img src="{{ site.url }}{{ page.header_xl }}" srcset="{{ site.url }}{{ page.header_sm }} 200w, {{ site.url }}{{ page.header_med }} 641w, {{ site.url }}{{ page.header_large }} 1025w, {{ site.url }}{{ page.header_xl }} 1441w" alt="{{ site.title }} banner image" title="{{ site.title }} banner image" class="center"></a>
+  </header>
+  
+  {% elsif site.header %}
+    <header role="banner">
+      <a href="{{ root_url }}/"><img src="{{ site.url }}{{ site.header_xl }}" srcset="{{ site.url }}{{ site.header_sm }} 200w, {{ site.url }}{{ site.header_med }} 641w, {{ site.url }}{{ site.header_large }} 1025w, {{ site.url }}{{ site.header_xl }} 1441w" alt="{{ site.title }} banner image" title="{{ site.title }} banner image" class="center"></a>
+    </header>
+  
+  {% else %}
+
+{% endif %}
