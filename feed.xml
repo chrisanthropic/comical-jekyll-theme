@@ -6,8 +6,8 @@
 </description>
     <link>/https://chrisanthropic.github.io/comical-jekyll-theme//</link>
     <atom:link href="/https://chrisanthropic.github.io/comical-jekyll-theme//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Dec 2014 10:44:45 -0800</pubDate>
-    <lastBuildDate>Thu, 25 Dec 2014 10:44:45 -0800</lastBuildDate>
+    <pubDate>Thu, 25 Dec 2014 12:23:36 -0800</pubDate>
+    <lastBuildDate>Thu, 25 Dec 2014 12:23:36 -0800</lastBuildDate>
     <generator>Jekyll v2.5.2</generator>
     
       <item>
@@ -15,8 +15,10 @@
         <description>&lt;!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll --&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-5.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-5.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-5.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 5&quot; title=&quot;A Fistful of Lunars Page 5&quot; class=&quot;center&quot; /&gt;
-&lt;figcaption&gt;
+  
+       &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-5.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-5.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-5.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 5&quot; title=&quot;A Fistful of Lunars Page 5&quot; class=&quot;center&quot; /&gt;
+  
+  &lt;figcaption&gt;
     
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -35,8 +37,12 @@
         <description>&lt;!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll --&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-4.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-4.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-4.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 4&quot; title=&quot;A Fistful of Lunars Page 4&quot; class=&quot;center&quot; /&gt;
-&lt;figcaption&gt;
+  
+    &lt;a href=&quot;/a-fistful-of-lunars/page-5/&quot;&gt;
+      &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-4.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-4.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-4.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 4&quot; title=&quot;A Fistful of Lunars Page 4&quot; class=&quot;center&quot; /&gt;
+    &lt;/a&gt;
+  
+  &lt;figcaption&gt;
     
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -55,8 +61,12 @@
         <description>&lt;!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll --&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-3.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-3.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-3.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 3&quot; title=&quot;A Fistful of Lunars Page 3&quot; class=&quot;center&quot; /&gt;
-&lt;figcaption&gt;
+  
+    &lt;a href=&quot;/a-fistful-of-lunars/page-4/&quot;&gt;
+      &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-3.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-3.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-3.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 3&quot; title=&quot;A Fistful of Lunars Page 3&quot; class=&quot;center&quot; /&gt;
+    &lt;/a&gt;
+  
+  &lt;figcaption&gt;
     
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -75,8 +85,12 @@
         <description>&lt;!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll --&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-2.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-2.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-2.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 2&quot; title=&quot;A Fistful of Lunars Page 2&quot; class=&quot;center&quot; /&gt;
-&lt;figcaption&gt;
+  
+    &lt;a href=&quot;/a-fistful-of-lunars/page-3/&quot;&gt;
+      &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-2.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-2.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-2.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 2&quot; title=&quot;A Fistful of Lunars Page 2&quot; class=&quot;center&quot; /&gt;
+    &lt;/a&gt;
+  
+  &lt;figcaption&gt;
     
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -96,8 +110,12 @@
         <description>&lt;!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll --&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-1.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-1.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-1.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 1&quot; title=&quot;A Fistful of Lunars Page 1&quot; class=&quot;center&quot; /&gt;
-&lt;figcaption&gt;
+  
+    &lt;a href=&quot;/a-fistful-of-lunars/page-2/&quot;&gt;
+      &lt;img src=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-1.jpg&quot; srcset=&quot;https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/small/a-fistful-of-lunars-page-1.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme//images/comics/a-fistful-of-lunars-page-1.jpg 1025w&quot; alt=&quot;A Fistful of Lunars Page 1&quot; title=&quot;A Fistful of Lunars Page 1&quot; class=&quot;center&quot; /&gt;
+    &lt;/a&gt;
+  
+  &lt;figcaption&gt;
     
 &lt;/figcaption&gt;
 &lt;/figure&gt;
