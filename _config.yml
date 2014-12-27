@@ -44,13 +44,13 @@ mini_magick:
     thumbnail:
       source: images/comics/
       destination: /images/comics/thumbs
-      resize: "182x280"
+      resize: "182x280^"
 
 #Autogenerate smaller size for small screens       
     small:
       source: images/comics/
       destination: /images/comics/small
-      resize: "350x535"
+      resize: "350x535^"
 
 #### SEO Stuff
 # Google Analytics
