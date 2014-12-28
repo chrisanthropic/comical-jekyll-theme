@@ -10,7 +10,7 @@ baseurl: https://chrisanthropic.github.io/comical-jekyll-theme/ #remove this and
 url: /
 
 # Exclude our ruby stuff
-exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, image_optim_cache.yml]
 
 # Build settings
 markdown: kramdown

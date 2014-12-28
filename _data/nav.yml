@@ -26,6 +26,8 @@
       subhref: "/documentation/footer.html"
     - subtitle: "rakefile"
       subhref: "/documentation/rakefile.html"
+    - subtitle: "image_optim"
+      subhref: "/documentation/image-optim.html"
     - subtitle: "installation"
       subhref: "/documentation/installation.html"
     - subtitle: "configuration"
