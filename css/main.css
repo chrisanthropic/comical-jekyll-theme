@@ -367,7 +367,9 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 0.875em; }
+  font-size: 0.875em;
+  background-color: #6b6b6b;
+  color: white; }
 
 /**
  * Lists
