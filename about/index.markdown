@@ -1,8 +1,9 @@
 ---
 layout: default
+title: about
 ---
 
-<article class="row">
+<article class="row pad-lr-15">
    {% for about in site.data.about %}
     <div class="small-12 blocky">
       <img src="{{ site.baseurl }}{{ about.pic }}" alt="{{ about.title }} image" class="left">

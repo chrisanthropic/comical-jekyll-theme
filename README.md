@@ -236,6 +236,11 @@ This will create 2 sizes of 'thumbnails' from any images in the `/images/comics`
     twitter_image: 			 #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
   ```
 
+* Keywords
+  You can set default sitewide keywords or keywords per post/page. Keywords will show up in the metadata of the page/post.
+  * Sitewide: add `keywords: stuff, things, comics` to your config.yml
+  * Per page/post: add `keywords: new stuff, other things, comics` to the frontmatter of your page/post
+
 ### Installation
 
 For now it's best to start fresh or install the theme and then transfer over any old files (posts, images, etc) from your previous site.

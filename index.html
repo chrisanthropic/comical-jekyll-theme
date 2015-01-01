@@ -9,7 +9,7 @@ sidebar: true
   {% if page.sidebar != false %}
     <article class="columns small-12 large-9 comic-page">
   {% else %}
-    <article class="columns small-12 comic-page">
+    <article class="columns small-12 large-offset-1 large-10 comic-page">
   {% endif %}
       <nav class="comic-nav">
 	<nav class="previous-comic">
@@ -23,11 +23,12 @@ sidebar: true
 	</nav>    
 	<nav class="comic-next">
 	{% for post in site.posts limit:1 offset:1 %}
-	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
-	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}/{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}/{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	{% endfor %}
 	</nav>
       </nav>
+
 	{% for post in site.posts limit:1 %}
 	
 	  {{ post.content }}
@@ -44,8 +45,8 @@ sidebar: true
 	  <a href="{{ site.baseurl }}{{ site.posts.last.url }}">First</a>
 	</nav>    
 	<nav class="comic-next">
-	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
-	  <a href="{{ site.baseurl }}{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}/{{ post.categories }}/" class="hide-for-small">Archive<span class="icon-arrow-down"></span></a>
+	  <a href="{{ site.baseurl }}/{{ post.categories }}/" class="hide-for-large"><span class="icon-arrow-down"></span></a>
 	</nav>
       </nav>
   </article>

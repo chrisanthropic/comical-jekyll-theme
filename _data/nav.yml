@@ -1,5 +1,5 @@
 - title: "home"
-  href: ""
+  href: "/"
 
 - title: "characters"
   href: "/characters/"
@@ -34,3 +34,6 @@
       subhref: "/documentation/configuration.html"
     - subtitle: "deployment"
       subhref: "/documentation/deploy.html"
+      
+- title: "external"
+  external: "https://www.gumroad.com/shamsee"

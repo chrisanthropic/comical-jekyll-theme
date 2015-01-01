@@ -2,11 +2,12 @@
 title: Comical Jekyll Theme
 email: 
 
+keywords: webcomic, comic
 description: > # this means to ignore newlines until "baseurl:"
   A webcomic theme for jekyll.
 
 
-baseurl: https://chrisanthropic.github.io/comical-jekyll-theme/ #remove this and use url instead once you've installed the theme.
+baseurl: https://chrisanthropic.github.io/comical-jekyll-theme #remove this and use url instead once you've installed the theme.
 url: /
 
 # Exclude our ruby stuff
@@ -30,10 +31,10 @@ permalink: /:categories/:title/
 
 # Set default header image
 header: yes
-header_sm: /images/banner-small.jpg
-header_med: /images/banner-med.jpg
-header_large: /images/banner-large.jpg
-header_xl: /images/banner-xl.jpg
+header_sm: images/banner-small.jpg
+header_med: images/banner-med.jpg
+header_large: images/banner-large.jpg
+header_xl: images/banner-xl.jpg
 
 ## Thumbnailer taken from https://github.com/chrisanthropic/jekyll-minimagick
 
@@ -58,6 +59,7 @@ google_universal_analytics:
 google_universal_analytics_cookiedomain: auto
 
 # Facebook Opengraph
+facebook_user:
 facebook_app_id:                      #enter your App ID
 facebook_locale: en_US
 facebook_page:                        #the URL of your Facebook Page

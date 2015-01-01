@@ -8,7 +8,6 @@ layout: default
 
 <div class="blog-archives">
   <div class="row">
-  <h1>{{ page.title }}</h1>
     {% for post in site.categories.[page.category] %}
       {% if post.thumbnail %}
 	<div class="small-4 large-3 column center-text left">
@@ -22,6 +21,3 @@ layout: default
     {% endfor %} 
   </div>
 </div>
-
-
-

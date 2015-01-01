@@ -1,0 +1,7 @@
+---
+layout: null
+---
+User-agent: *
+Disallow: /downloads/
+
+Sitemap: {{ site.baseurl }}/sitemap.xml 
