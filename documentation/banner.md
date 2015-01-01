@@ -3,10 +3,10 @@ layout: page
 title: "banner"
 permalink: /documentation/banner.html
 header: yes
-header_sm: /images/banner-xl2.jpg
-header_med: /images/banner-xl2.jpg
-header_large: /images/banner-xl2.jpg
-header_xl: /images/banner-xl2.jpg
+header_sm: images/banner-xl2.jpg
+header_med: images/banner-xl2.jpg
+header_large: images/banner-xl2.jpg
+header_xl: images/banner-xl2.jpg
 --- 
 
 **Basics**
@@ -38,10 +38,10 @@ You can set a site-wide default banner image by adding the following to your _co
 
 ```
 header: yes
-header_sm: /path/to/banner-sm.jpg
-header_med: /path/to/banner-med.jpg
-header_large: /path/to/banner-large.jpg
-header_xl: /path/to/banner-xl.jpg
+header_sm: path/to/banner-sm.jpg
+header_med: path/to/banner-med.jpg
+header_large: path/to/banner-large.jpg
+header_xl: path/to/banner-xl.jpg
 ```
 
 **Per Page Banner**
