@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Comical Jekyll Theme]]></title>
+  <link href="https://chrisanthropic.github.io/comical-jekyll-theme/atom.xml" rel="self"/>
+  <link href="https://chrisanthropic.github.io/comical-jekyll-theme/"/>
+  <updated>2014-12-31T16:37:37-08:00</updated>
+  <id>https://chrisanthropic.github.io/comical-jekyll-theme/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://jekyllrb.com/">Jekyll</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[page 5]]></title>
+    <link href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-5/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=page5"/>
+    <updated>2014-12-25T17:22:47-08:00</updated>
+    <id>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-5</id>
+    <content type="html"><![CDATA[<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  
+       <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/ 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg 1025w" alt="A Fistful of Lunars Page 5" title="A Fistful of Lunars Page 5" class="center" />
+  
+</figure>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[page 4]]></title>
+    <link href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-4/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=page4"/>
+    <updated>2014-12-24T17:22:47-08:00</updated>
+    <id>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-4</id>
+    <content type="html"><![CDATA[<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  
+    <a href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-5/">
+      <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-4.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/a-fistful-of-lunars-page-4.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-4.jpg 1025w" alt="A Fistful of Lunars Page 4" title="A Fistful of Lunars Page 4" class="center" />
+    </a>
+  
+</figure>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[page 3]]></title>
+    <link href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-3/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=page3"/>
+    <updated>2014-12-23T17:22:47-08:00</updated>
+    <id>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-3</id>
+    <content type="html"><![CDATA[<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  
+    <a href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-4/">
+      <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-3.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/a-fistful-of-lunars-page-3.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-3.jpg 1025w" alt="A Fistful of Lunars Page 3" title="A Fistful of Lunars Page 3" class="center" />
+    </a>
+  
+</figure>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[page 2]]></title>
+    <link href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-2/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=page2"/>
+    <updated>2014-12-22T17:21:47-08:00</updated>
+    <id>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-2</id>
+    <content type="html"><![CDATA[<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  
+    <a href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-3/">
+      <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-2.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/a-fistful-of-lunars-page-2.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-2.jpg 1025w" alt="A Fistful of Lunars Page 2" title="A Fistful of Lunars Page 2" class="center" />
+    </a>
+  
+</figure>
+<p>}</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Page 1]]></title>
+    <link href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-1/?utm_source=RSS&amp;utm_medium=RSS&amp;utm_campaign=Page1"/>
+    <updated>2014-12-21T17:21:45-08:00</updated>
+    <id>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-1</id>
+    <content type="html"><![CDATA[<!--figure tags without plugin: http://stackoverflow.com/questions/19331362/using-an-image-caption-in-markdown-jekyll -->
+
+<figure>
+  
+    <a href="https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-2/">
+      <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-1.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/a-fistful-of-lunars-page-1.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-1.jpg 1025w" alt="A Fistful of Lunars Page 1" title="A Fistful of Lunars Page 1" class="center" />
+    </a>
+  
+</figure>
+]]></content>
+  </entry>
+  
+</feed>

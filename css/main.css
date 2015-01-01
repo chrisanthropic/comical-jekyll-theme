@@ -410,6 +410,9 @@ a {
   margin-left: auto;
   margin-right: auto; }
 
+@media screen and (max-width: 768px) {
+  .wrap {
+    margin-bottom: -151.2px; } }
 .wrap:after {
   content: "";
   display: block; }
@@ -455,6 +458,17 @@ a {
 .site-footer {
   background: #676767; }
 
+@media screen and (max-width: 768px) {
+  .site-footer, .wrap:after {
+    height: 151.2px; } }
+.updates {
+  text-align: center;
+  color: white; }
+
+.copyright {
+  font-size: 0.875em;
+  margin: 10px 0 0 0; }
+
 .center {
   display: block;
   margin: 0 auto; }
@@ -472,6 +486,12 @@ a {
 @media screen and (max-width: 768px) {
   .hide-for-small {
     display: none; } }
+.schedule {
+  background-color: #76a6a6; }
+
+.pad-lr-15 {
+  padding: 0 15px; }
+
 .columns.comic-page {
   padding: 0px; }
 
