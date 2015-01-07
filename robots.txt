@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /downloads/
 
-Sitemap: https://chrisanthropic.github.io/comical-jekyll-theme/sitemap.xml 
+Sitemap: /sitemap.xml 

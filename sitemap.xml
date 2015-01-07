@@ -3,7 +3,7 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-5/</loc>
+      <loc>/a-fistful-of-lunars/page-5/</loc>
       
         <lastmod>2014-12-25T17:22:47-08:00</lastmod>
       
@@ -18,7 +18,7 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-4/</loc>
+      <loc>/a-fistful-of-lunars/page-4/</loc>
       
         <lastmod>2014-12-24T17:22:47-08:00</lastmod>
       
@@ -33,7 +33,7 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-3/</loc>
+      <loc>/a-fistful-of-lunars/page-3/</loc>
       
         <lastmod>2014-12-23T17:22:47-08:00</lastmod>
       
@@ -48,7 +48,7 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-2/</loc>
+      <loc>/a-fistful-of-lunars/page-2/</loc>
       
         <lastmod>2014-12-22T17:21:47-08:00</lastmod>
       
@@ -63,7 +63,7 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/page-1/</loc>
+      <loc>/a-fistful-of-lunars/page-1/</loc>
       
         <lastmod>2014-12-21T17:21:45-08:00</lastmod>
       
@@ -79,9 +79,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/404.html</loc>
+      <loc>/404.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -96,24 +96,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/banner.html</loc>
+      <loc>/documentation/banner.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/basics.html</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,24 +111,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/configuration.html</loc>
+      <loc>/documentation/basics.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/deploy.html</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -156,24 +126,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/footer.html</loc>
+      <loc>/documentation/configuration.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/grid.html</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,24 +141,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/image-optim.html</loc>
+      <loc>/documentation/deploy.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/images/image_optim_cache.yml</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -216,24 +156,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/</loc>
+      <loc>/documentation/footer.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/a-fistful-of-lunars/</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -246,24 +171,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/about/</loc>
+      <loc>/documentation/grid.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/characters/</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -276,24 +186,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/installation.html</loc>
+      <loc>/documentation/image-optim.html</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/css/main.css</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -306,24 +201,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/nav.html</loc>
+      <loc>/images/image_optim_cache.yml</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/rakefile.html</loc>
-      
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -336,9 +216,9 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/robots.txt</loc>
+      <loc>/</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -351,9 +231,129 @@
   
     
     <url>
-      <loc>https://chrisanthropic.github.io/comical-jekyll-theme/documentation/sass.html</loc>
+      <loc>/a-fistful-of-lunars/</loc>
       
-        <lastmod>2015-01-07T09:11:42-08:00</lastmod>
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/about/</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/characters/</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/documentation/installation.html</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/css/main.css</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/documentation/nav.html</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/documentation/rakefile.html</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/robots.txt</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>/documentation/sass.html</loc>
+      
+        <lastmod>2015-01-07T10:07:30-08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
