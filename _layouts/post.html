@@ -3,7 +3,11 @@ layout: default
 ---
 <div class="row">
   <div>
+  {% if page.sidebar != false %}
     <article class="columns small-12 large-9 comic-page">
+  {% else %}
+    <article class="columns small-12 large-offset-1 large-10 comic-page">
+  {% endif %}
       <nav class="comic-nav">
 	{% if site.posts.last.url == page.url %}
 	  <nav class="first-archive">
@@ -75,5 +79,7 @@ layout: default
       </nav>
     </article>
   </div>
-  {% include asides/recent_posts.html %}
+  {% if page.sidebar != false %}
+    {% include asides/recent_posts.html %}
+  {% endif %}
 </div>
