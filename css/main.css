@@ -411,7 +411,7 @@ a {
 
 @media screen and (max-width: 768px) {
   .wrap {
-    margin-bottom: -151.2px; } }
+    margin-bottom: -211px; } }
 .wrap:after {
   content: "";
   display: block; }
@@ -459,7 +459,18 @@ a {
 
 @media screen and (max-width: 768px) {
   .site-footer, .wrap:after {
-    height: 151.2px; } }
+    height: 211px; }
+
+  .site-footer ul {
+    margin: 0; }
+
+  .site-footer li {
+    list-style-type: none;
+    height: 40px;
+    line-height: 40px; }
+
+  .site-footer span.icon-gumroad {
+    font-size: 2.5em; } }
 .updates {
   text-align: center;
   color: white; }
