@@ -473,8 +473,7 @@ a {
     font-size: 2.5em; }
 
   .recent-posts ul li {
-    height: 40px;
-    line-height: 40px; } }
+    margin-bottom: 2em; } }
 .updates {
   text-align: center;
   color: white; }
