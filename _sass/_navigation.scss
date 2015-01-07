@@ -206,7 +206,7 @@
 
 	#nav #toggleMenu {
 		display: block;
-		margin-right: -15px;
+		padding-left: 15px;
 	}
 
 	#nav #toggleMenu>a, #nav #hideMenu>a {
@@ -229,7 +229,7 @@
 		border-top-left-radius: 3px;
 		border-top-right-radius: 3px;
 		padding-left: 25px;
-		margin: 0 -15px 0 -15px;
+		padding: 0 15px 0 15px;
 	}
 
 	#nav #hideMenu>a {
