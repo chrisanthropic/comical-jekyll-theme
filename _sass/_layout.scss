@@ -11,7 +11,7 @@
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .wrap {
-    margin-bottom: -$footer-height * 2.8; 
+    margin-bottom: -211px; 
   }
 }
 
@@ -81,7 +81,21 @@
 // Styling for mobile devices
 @media screen and (max-width: 768px) {
   .site-footer, .wrap:after {
-    height: $footer-height * 2.8; 
+    height: 211px; 
+  }
+  
+  .site-footer ul {
+    margin: 0; 
+  }
+  
+  .site-footer li {
+    list-style-type: none;
+    height: 40px;
+    line-height: 40px;
+  }
+  
+  .site-footer span.icon-gumroad {
+    font-size: 2.5em;
   }
 }
 
