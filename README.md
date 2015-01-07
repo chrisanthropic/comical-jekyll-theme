@@ -18,6 +18,7 @@ A webcomic theme for Jekyll based on my [Slim-Pickins](https://github.com/chrisa
 * **Javascript free**
 * Custom Rakefile with tasks for deploying, minifying, and notifying search engines about updates
 * image_optim plugin to optimize all images
+* Basic SEO
 
 ### SASS
 Includes the following variables for easy customization:
