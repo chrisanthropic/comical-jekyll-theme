@@ -4,7 +4,7 @@
   <title><![CDATA[Comical Jekyll Theme]]></title>
   <link href="https://chrisanthropic.github.io/comical-jekyll-theme/atom.xml" rel="self"/>
   <link href="https://chrisanthropic.github.io/comical-jekyll-theme/"/>
-  <updated>2015-01-07T12:08:54-08:00</updated>
+  <updated>2015-01-07T16:10:39-08:00</updated>
   <id>https://chrisanthropic.github.io/comical-jekyll-theme/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -22,7 +22,7 @@
 
 <figure>
   
-       <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/ 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg 1025w" alt="A Fistful of Lunars Page 5" title="A Fistful of Lunars Page 5" class="center" />
+       <img src="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg" srcset="https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/small/a-fistful-of-lunars-page-5.jpg 320w, https://chrisanthropic.github.io/comical-jekyll-theme/images/comics/a-fistful-of-lunars-page-5.jpg 1025w" alt="A Fistful of Lunars Page 5" title="A Fistful of Lunars Page 5" class="center" />
   
 </figure>
 ]]></content>
