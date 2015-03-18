@@ -16,6 +16,15 @@
 		  {% endfor %}
 		</ul>
 	    </li>
+	  {% elsif nav.external-subcategories != null %}
+	    <li class="dropdown">
+	      <a href="{{ site.url }}{{ nav.url }}">{{ nav.title }}</a>
+		<ul>
+		  {% for subcategory in nav.external-subcategories %}
+		    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+		  {% endfor %}
+		</ul>
+	    </li>
 		{% elsif nav.title == page.title %}
 		  <li class="active"><a href="{{ nav.href }}">{{ nav.title }}</a></li>
 		{% else %}
