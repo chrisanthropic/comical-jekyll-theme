@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="row">
   <div>
-  {% if page.sidebar != false %}
+  {% if page.sidebar == "true" %}
     <article class="columns small-12 large-9 comic-page">
   {% else %}
     <article class="columns small-12 large-offset-1 large-10 comic-page">
@@ -79,7 +79,7 @@ layout: default
       </nav>
     </article>
   </div>
-  {% if page.sidebar != false %}
+  {% if page.sidebar == "true" %}
     {% include asides/recent_posts.html %}
   {% endif %}
 </div>
