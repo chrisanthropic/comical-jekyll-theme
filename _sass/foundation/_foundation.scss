@@ -1,0 +1,23 @@
+// Foundation for Sites by ZURB
+// foundation.zurb.com
+// Licensed under MIT Open Source
+
+// Settings
+@import 'settings/settings';
+
+// Third-party libraries
+@import 'vendor/normalize';
+
+// Sass utilities
+@import 'util/util';
+
+// Global variables and styles
+@import 'global';
+
+// Components
+@import 'grid/grid';
+@import 'components/visibility';
+
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-visibility-classes;
