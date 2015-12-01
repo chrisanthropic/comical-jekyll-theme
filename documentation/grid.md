@@ -4,6 +4,8 @@ title: "grid"
 permalink: /documentation/grid.html
 ---
 
-Uses minimal sass [components](https://github.com/zurb/bower-foundation/tree/master/scss/foundation/components) from Zurb Foundation:
+Uses minimal sass from Zurb Foundation 6: 
 
-* [grid](http://foundation.zurb.com/docs/components/grid.html)
+* [grid](http://foundation.zurb.com/sites/docs/grid.html)
+* [visibility](http://foundation.zurb.com/sites/docs/visibility.html)
+* [media query](http://foundation.zurb.com/sites/docs/media-queries.html)
