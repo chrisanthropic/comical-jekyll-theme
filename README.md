@@ -8,8 +8,11 @@ A webcomic theme for Jekyll based on my [Slim-Pickins](https://github.com/chrisa
 
 ## Basic features include:
 
+* Jekyll 3.0 compatible
 * SASS
-* Responsive grid
+* Minimal Zurb Foundation 6 Integration
+    * Responsive grid
+    * Visibility classes
 * Responsive navigation
 * Responsive Comic Images (using SRCSET)
 * Optional responsive full-width banner (using SRCSET)
@@ -83,9 +86,9 @@ Includes the following variables for easy customization:
 * $footer-color
 
 ### GRID
-Uses minimal sass [components](https://github.com/zurb/bower-foundation/tree/master/scss/foundation/components) from Zurb Foundation:
+Uses minimal sass from Zurb Foundation:
 
-* [grid](http://foundation.zurb.com/docs/components/grid.html)
+* [grid](http://foundation.zurb.com/sites/docs/grid.html)
 
 ### NAVIGATION
 A fully responsive navigation bar with the following features:
