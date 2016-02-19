@@ -454,7 +454,15 @@ a {
   height: 54px; }
 
 .site-footer {
-  background: #676767; }
+  background: #676767;
+  position: fixed;
+  top: 100%;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  margin-top: -54px;
+  z-index: 9999;
+  background-color: rgba(0, 0, 0, 0.9); }
 
 @media screen and (max-width: 768px) {
   .site-footer, .wrap:after {
