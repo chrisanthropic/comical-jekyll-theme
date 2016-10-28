@@ -20,6 +20,7 @@ module Jekyll
         @dst_dir = preset.delete('destination')
         @src_dir = preset.delete('source')
         @commands = preset
+        @@mtimes = {}
       end
 
       # Obtains source file path by substituting the preset's source directory
